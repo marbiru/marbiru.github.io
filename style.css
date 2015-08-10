@@ -1,0 +1,19 @@
+h1, h2, p {
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+	font-size: 72px;
+	padding-top: 30px;
+}
+
+h2 {
+	font-size: 64px;
+}
+
+/* Background pattern from subtlepatterns.com */
+
+body {
+	background-image: url( "old_mathematics.png" );
+}
